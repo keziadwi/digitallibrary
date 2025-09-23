@@ -18,6 +18,7 @@ Berikut ini adalah Koleksi yang dimiliki
 11. [Resume Kuliah Tamu](ebook/Kezia Dwi Angelina (139) - Kuliah Tamu.pdf) - Kezia Dwi Angelina (2025)
 
 ---
-[Halaman 1](webti/halaman1.html)[Halaman 2](webti/halaman2.html)[Halaman 3](webti/halaman3.html)[Halaman 4](webti/halaman4.html)[Halaman 5](webti/halaman5.html)[Halaman 6](webti/halaman6.html)[Halaman 7](webti/halaman7.html)
+[Halaman 1](webti/halaman1.html)[Halaman 2](webti/halaman2.html)[Halaman 3](webti/halaman3.html)[Halaman 4](webti/halaman4.html)[Halaman 5](webti/halaman5.html)[Halaman 6](webti/halaman6.html)[Halaman 7](webti/halaman7.html) <a href="https://keziadwi.github.io/digitallibrary/">Index</a>|
+
 
 *Powered by Github Pages*
